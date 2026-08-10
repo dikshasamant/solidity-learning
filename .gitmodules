@@ -1,0 +1,3 @@
+[submodule "04-SimpleBank/lib/forge-std"]
+	path = 04-SimpleBank/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
